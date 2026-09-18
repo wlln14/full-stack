@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/full-stack.iml" filepath="$PROJECT_DIR$/.idea/full-stack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mural-recadoss.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mural-recadoss.main.iml" />
     </modules>
   </component>
 </project>
